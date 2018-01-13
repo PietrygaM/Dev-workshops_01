@@ -49,6 +49,7 @@ public class Main1 {
 			} catch (InputMismatchException e) {
 				System.out.println("To nie jest liczba");
 				//scanner.nextLine();
+				//scanner.nextLine();
 			}
 
 		}

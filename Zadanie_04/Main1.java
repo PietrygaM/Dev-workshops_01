@@ -52,7 +52,6 @@ public class Main1 {
 		System.out.println(recomendation);
 		Scanner scan = new Scanner(System.in);
 		String text = scan.nextLine();
-				
 		return text;
 	}
 
